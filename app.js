@@ -31,3 +31,4 @@ function lifePhase (age) {
     }  
 }
 */
+console.log(lifePhase(5)) 
